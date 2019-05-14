@@ -13,10 +13,13 @@ Ví dụ: Chuyển vào thư mục /home/user
 Đường dẫn tương đối thì chúng ta không cần phải bắt đầu từ / (root) mà có thể tiếp cận được với các thư mục hay tập tin bên trong thư mục đang hiện hành (working directory)
 
 Một đường dẫn tương đối thường bắt đầu với:
+
 - Tên của một thư mục hoặc tập tin
+
 - Hệ điều hành dùng ký hiệu "." chỉ thư mục hiện hành và ký hiệu ".." chỉ thư mục mẹ của thư mục hiện hành.
 
 Ví dụ: Bạn đang ở thư mục /home/user mà muốn vào trong thư mục /home/user/download thì chỉ cần nhập:
+
 ``cd ../download``
 
 
