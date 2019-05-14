@@ -27,3 +27,24 @@ Ví dụ đổi file test.txt thành new.txt
 Ví dụ muốn di chuyển tập tin test.txt ở /home sang /etc
 
 `mv /home/test.txt /etc/test.txt`
+
+### cp - Copy
+**cp <link_nguồn> <link_đích>**
+
+**cp** dùng để sao lưu 1 bản từ vị trí này đến vị trí khác
+
+<img src="https://github.com/vinhvt2704/Images/blob/master/cp.PNG">
+
+### mv - Move
+**mv <Link_nguồn> <Link_đích>**
+
+**mv** dùng để di chuyển thư mục hoặc file tới 1 vị trí khác
+
+<img src="https://github.com/vinhvt2704/Images/blob/master/mv.PNG">
+
+### rm - Remove
+**rm <Tên_file>**
+
+**rm** dùng để xóa một file đang tồn tại
+
+<img src="https://github.com/vinhvt2704/Images/blob/master/rm.PNG">
