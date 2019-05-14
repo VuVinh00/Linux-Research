@@ -8,13 +8,10 @@ Cú pháp:
 
 $man [OPTION] ... [COMMAND NAME] ...
 
-### Ví dụ
+### Ví dụ:
 
-1: Không lựa chọn ( no option) : Nó sẽ hiển thị tất cả hướng dẫn của câu lệnh
-
-``$ man [COMMAND NAME] ``
-
-ví dụ
 `` man printf ``
 
 OUTPUT:
+
+<img src="https://github.com/vinhvt2704/Images/blob/master/man.png">
