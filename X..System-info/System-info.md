@@ -37,3 +37,9 @@ Cú pháp:
 ``$ lscpu``
 
 <img src="https://github.com/vinhvt2704/Images/blob/master/lscpu.PNG">
+
+### lsblk
+
+**lsblk** được dùng để hiển thị thông tin các thiết bị lưu trữ như ổ cứng, ổ flash(usb)
+
+
