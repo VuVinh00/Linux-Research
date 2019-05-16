@@ -84,7 +84,7 @@ Ví dụ:
 
 Đây là hình ảnh so sánh giữa cat và tac
 
-<img src="
+<img src="https://github.com/vinhvt2704/Images/blob/master/tac-basic-usage.png">
 
 ### more 
 
