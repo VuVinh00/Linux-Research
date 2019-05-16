@@ -56,3 +56,34 @@ Ví dụ:
 
 ``$ cat sample.txt``
 
+### more 
+
+Câu lệnh **more** được sử dụng để mở nội dung của file. Nếu nội dung của file quá lớn nó sẽ hiển thị theo từng trang. Ta có thể dùng nút **Enter** hoặc **Space** để cuộn trang. Nhưng câu lệnh **more** chỉ có thể cuộn xuống, không thể cuộn lên.
+
+Cú pháp:
+
+``$ more <tên-file>``
+
+Ví dụ:
+
+``more sample.txt``
+
+Để tìm kiếm một chuỗi, ta gõ phím ``/`` rồi nhập từ cần tìm kiếm và gõ **Enter**
+
+``/Search``
+
+### less
+
+Câu lệnh **less** hiển thị nội dung của toàn bộ file. Không giống như **more**, câu lệnh **less** có thể cuộn lên và cuộn xuống.
+
+Cú pháp:
+
+``$ less <tên-file>``
+
+Ví dụ:
+
+``$ less sample.txt``
+
+Để tìm kiếm một chuỗi, cũng như **more** ta gõ phím ``/`` rồi nhập từ cần tìm kiếm và gõ **Enter**
+
+``/Search``
