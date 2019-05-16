@@ -70,6 +70,22 @@ Ví dụ:
 
 ``$ cat sample.txt``
 
+### tac
+
+**tac** ngược lại câu lệnh với **cat**, nếu như **cat** in ra toàn bộ file từ trên xuống thì **tac** cũng in ra toàn bộ file nhưng sẽ hiển thị từ dưới lên trên
+
+Cú pháp:
+
+``$ tac <tên-file>
+
+Ví dụ:
+
+``$ tac example.txt
+
+Đây là hình ảnh so sánh giữa cat và tac
+
+<img src="
+
 ### more 
 
 Câu lệnh **more** được sử dụng để mở nội dung của file. Nếu nội dung của file quá lớn nó sẽ hiển thị theo từng trang. Ta có thể dùng nút **Enter** hoặc **Space** để cuộn trang. Nhưng câu lệnh **more** chỉ có thể cuộn xuống, không thể cuộn lên.
@@ -122,3 +138,14 @@ Như bạn có thể thấy, nó sẽ hiện ra toàn kí tự kì lạ và nó 
 ``strings /bin/cat``
 
 Bây giờ chúng ta có thể nhìn thấy sự khác biệt khi ta đọc tệp nhị phân bằng câu lệnh **cat** và **strings**.
+
+### echo
+
+Câu lệnh **echo** được sử dụng để hiển thị dòng văn bản ra màn hình. Câu lệnh **echo** thường được sử dụng trong shell scripts và file batch để in ra trạng thái ra màn hình hoặc 1 tệp
+
+Ví dụ để in một chuỗi văn bản, chúng ta có thể dùng lênh echo như sau:
+
+```$ echo "Sampleeeee"
+Sampleeeee"```
+
+###
