@@ -24,5 +24,15 @@ Cách đọc kết quả, ví dụ
 - **ID**: Nghĩa là số ID của thiết bị
 - **Linux Foundation 2.0 root hub**: Tên drivers 
 
+### File /proc/interrupts
 
+-----------------
+
+### lscpu
+
+Câu lệnh **lspcu** dùng để hiển thị thông tin về kiến trúc của CPU. 
+
+Cú pháp:
+
+``$ lscpu``
 
