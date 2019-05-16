@@ -48,3 +48,4 @@ Cú pháp:
 
 Ta có thể dùng câu lệnh ``cat /etc/*-release`` để kiểm tra bản phân phối đang dùng
 
+<img src="https://github.com/vinhvt2704/Images/blob/master/checkdistro.PNG">
