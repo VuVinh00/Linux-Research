@@ -12,5 +12,17 @@ Câu lệnh **lsusb** giúp hiển thị thông tin về các USB đang chạy t
 
 ``$ lsusb``
 
-**lsusb** sẽ đưa ra cho bạn các drivers và 
+<img src="https://github.com/vinhvt2704/Images/blob/master/lsusb.PNG">
+
+**lsusb** sẽ đưa ra cho bạn các drivers và thiết bị được kết nối trên hệ thống
+
+Cách đọc kết quả, ví dụ
+
+**Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub**
+- **Bus 001**: nghĩa là nơi thiết bị được gắn kết
+- **Device 001**: nghĩa là thiết bị thứ nhất được gắn kết
+- **ID**: Nghĩa là số ID của thiết bị
+- **Linux Foundation 2.0 root hub**: Tên drivers 
+
+
 
