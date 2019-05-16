@@ -36,3 +36,4 @@ Cú pháp:
 
 ``$ lscpu``
 
+<img src="https://github.com/vinhvt2704/Images/blob/master/lscpu.PNG">
