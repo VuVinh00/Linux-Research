@@ -147,5 +147,5 @@ Ví dụ để in một chuỗi văn bản, chúng ta có thể dùng lênh echo
 
 ```
 $ echo "Sampleeeee"
-Sampleeeee"
+Sampleeeee
 ```
