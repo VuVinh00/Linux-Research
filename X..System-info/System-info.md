@@ -43,3 +43,8 @@ Cú pháp:
 **lsblk** được dùng để hiển thị thông tin các thiết bị lưu trữ như ổ cứng, ổ flash(usb)
 
 <img src="https://github.com/vinhvt2704/Images/blob/master/lslbk.PNG">
+
+### Cách kiểm tra distro, phiên bản Linux đang dùng
+
+Ta có thể dùng câu lệnh ``cat /etc/*-release`` để kiểm tra bản phân phối đang dùng
+
