@@ -44,6 +44,20 @@ Ngoài ra, ta có thể sử dụng tùy chọn **-f** trong câu lệnh **tail*
 
 ``$ tail -f /var/log/apache2/access.log``
 
+### tailf
+
+**tailf** là một câu lệnh đã không được dùng nữa. Nó đã được thay bằng câu lệnh **tail -f**.
+
+**tailf** sẽ in ra 10 dòng cuối trong file và sau đó sẽ đợi file lớn lên. Nó giống với **tail -f** nhưng nó sẽ không truy cập vào file khi file đó không lớn lên.
+
+Cú pháp:
+
+``$ tailf <tên-file>``
+
+Ví dụ:
+
+``$ tailf sample.txt``
+
 ### cat
 
 Khác với **head** hay **tail**, câu lệnh **cat** sẽ hiển thị toàn bộ nội dung của file.
@@ -87,3 +101,24 @@ Ví dụ:
 Để tìm kiếm một chuỗi, cũng như **more** ta gõ phím ``/`` rồi nhập từ cần tìm kiếm và gõ **Enter**
 
 ``/Search``
+
+## strings
+
+Câu lệnh **strings** dùng để đọc các ký tự nhị phân trong văn bản. Đã bao giờ bạn cố gắng chạy một tệp nhị phân ( binary file ) bằng lệnh như là **cat** và thấy kết quả không mong muốn. Nếu chưa thử chạy tệp nhị phân bằng lệnh **cat** thì bạn có thể thử bằng cách sau đây:
+
+Đầu tiên ta tìm đường dẫn của 1 tệp nhị phân, ví dụ như:
+``$ which cat``
+
+Output:
+
+``/bin/cat`` ( Lưu ý: kết quả này có thể khác đối với bản Linux của bạn)
+
+Sau đó chúng ta thử dùng lệnh **cat** để đọc tệp nhị phân này:
+
+``$ cat /bin/cat``
+
+Như bạn có thể thấy, nó sẽ hiện ra toàn kí tự kì lạ và nó không như mong đợi khi bạn muốn đọc 1 file đó. Bây giờ ta hãy thử dùng câu lệnh **strings** để đọc tệp nhị phân ``/bin/cat`` bằng câu lệnh:
+
+``strings /bin/cat``
+
+Bây giờ chúng ta có thể nhìn thấy sự khác biệt khi ta đọc tệp nhị phân bằng câu lệnh **cat** và **strings**.
