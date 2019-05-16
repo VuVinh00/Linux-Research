@@ -145,7 +145,7 @@ Câu lệnh **echo** được sử dụng để hiển thị dòng văn bản ra
 
 Ví dụ để in một chuỗi văn bản, chúng ta có thể dùng lênh echo như sau:
 
-```$ echo "Sampleeeee"
-Sampleeeee"```
-
-###
+```
+$ echo "Sampleeeee"
+Sampleeeee"
+```
