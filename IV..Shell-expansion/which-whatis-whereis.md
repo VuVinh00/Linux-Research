@@ -50,3 +50,19 @@ Ví dụ:
 $ whereis date
 date: /bin/date /usr/share/man/man1/date.1.gz
 ```
+## Chương trình lệnh whatis
+
+**whatis** là một chương trình giúp bạn hiểu biết về tiện ích của các dòng lệnh một cách nhanh chóng.
+
+Cú pháp:
+
+``whatis [-option] [command]``
+
+Ví dụ:
+
+Lấy thông tin của dòng lệnh:
+
+```
+$ whatis ls
+ls(1)         - list directory contents
+```
