@@ -38,3 +38,15 @@ Bằng cách sửa file /etc/default/useradd, ta có thể thay đổi shell m�
 Ví dụ:
 
 ``$ userdel vuvinh``
+
+### Chỉnh sửa thông tin user ( usermod ) 
+
+Sau khi tạo tài khoản, sẽ có lúc cần thay đổi các thuộc tính của user như thư mục lưu trữ của user, tên đăng nhập, login shell, password hết hạn, ... ta có thể sử dụng **usermod**
+
+Khi thực hiện **usermod**, các tệp dưới đây sẽ được sử dụng và tác động
+
+- /etc/passwd - Thông tin tài khoản
+- /etc/passwd - Thông tin bảo mật của tài khoản
+- /etc/group - Thông tin group
+- /etc/gshadow - Thông tin bảo mật của group
+- /etc/login.defs
