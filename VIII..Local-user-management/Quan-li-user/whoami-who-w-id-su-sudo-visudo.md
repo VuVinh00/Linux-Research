@@ -62,3 +62,11 @@ Ví dụ:
 
 ## Câu lệnh sudo
 
+Lệnh **sudo** cho phép một user có thể thực hiện chạy lệnh nào đó trong hệ thống dưới dạng người dùng cao nhất hoặc người dùng khác
+
+Ví dụ khi ta đang ở user thường sẽ không thể chạy lệnh **shutdown** nhưng khi ta thêm sudo ở trước ``sudo shutdown`` thì câu lệnh sẽ lập tức được thực hiện
+
+## Câu lệnh visudo
+
+**visudo** dùng để sửa file sudoers, file này định nghĩa các câu lệnh và các user có thể chạy với quyền sudo
+
