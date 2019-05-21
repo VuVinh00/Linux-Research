@@ -58,5 +58,5 @@ Cú pháp:
 
 Ví dụ:
 
-<img src="">
+<img src="https://github.com/vinhvt2704/Images/blob/master/su.PNG">
 
