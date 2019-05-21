@@ -17,3 +17,25 @@ Ví dụ:
 $ which cat
 /bin/cat
 ```
+**Hiển thị toàn bộ đường dẫn của chương trình**
+
+Đối với ví dụ phần 1 thì **which** sẽ mặc định xuất ra thông tin đường dẫn đầu tiên mà chương trình tìm thấy trong các thư mục của biến môi trường **$PATH**. Điều này dẫn đến việc có thể bỏ sót các thông tin đường dẫn khác hay chương trình cùng loại nhưng khác phiên bản trên cùng hệ thống.
+
+Vậy để hiển thị toàn bộ các đường dẫn file chương trình được tìm thấy thì ta thêm option **-a**
+
+```
+$ which -a cat
+/bin/cat
+/usr/bin/cat
+```
+## Chương trình lệnh whereis
+
+**whereis** là 1 chương trình giúp chúng ta tìm được 3 thông tin sau về 1 chương trình hoặc 1 lệnh trên Linux:
+
+- Đường dẫn vị trí file binary
+- Đường dẫn vị trí source code
+- Đường dẫn vị trí trang manual dành cho chương trình hay lệnh đó
+
+**whereis** sẽ tìm ở đâu?
+
+Ta có thể dùng câu lệnh **whereis -l** và 
