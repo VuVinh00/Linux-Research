@@ -33,3 +33,18 @@ Output:
 
 <img src="https://github.com/vinhvt2704/Images/blob/master/w.PNG">
 
+### Câu lệnh id 
+
+**id** show ra uid, gid và groups của user
+
+Cú pháp:
+
+``$ id [user]``
+
+Ví dụ:
+
+``$ id root``
+
+Output:
+
+<img src="">
