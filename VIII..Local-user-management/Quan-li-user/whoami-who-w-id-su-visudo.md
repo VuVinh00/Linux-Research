@@ -47,4 +47,4 @@ Ví dụ:
 
 Output:
 
-<img src="">
+<img src="https://github.com/vinhvt2704/Images/blob/master/id.PNG">
