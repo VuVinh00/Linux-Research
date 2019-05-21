@@ -38,4 +38,15 @@ $ which -a cat
 
 **whereis** sẽ tìm ở đâu?
 
-Ta có thể dùng câu lệnh **whereis -l** và 
+Ta có thể dùng câu lệnh **whereis -l** để kiểm tra các đường dẫn mà **whereis** có thể kiểm tra. Như vậy nếu đã cài đặt chương trình ở thư mục khác thì **whereis** sẽ không thể tìm ra được thông tin file chương trình đó.
+
+Cú pháp:
+
+``$ whereis [-option] [command]``
+
+Ví dụ:
+
+```
+$ whereis date
+date: /bin/date /usr/share/man/man1/date.1.gz
+```
