@@ -1,4 +1,4 @@
-## Các khái niệm cơ bản về quản lí user của Linux
+## Các khái niệm cơ bản user của Linux
 
 Trong Linux có 2 phần đó là username và userID:
 
