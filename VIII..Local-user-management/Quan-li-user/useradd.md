@@ -50,3 +50,11 @@ Khi thực hiện **usermod**, các tệp dưới đây sẽ được sử dụn
 - /etc/group - Thông tin group
 - /etc/gshadow - Thông tin bảo mật của group
 - /etc/login.defs
+
+Cú pháp:
+
+``$ usermod [-options] username``
+
+Các tùy chọn (options):
+
+- -c : thay đổi thông tin về username
