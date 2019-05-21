@@ -8,4 +8,4 @@ Cú pháp:
 
 Khi câu lệnh useradd được tạo, nó sẽ lấy một số thông tin từ trong /etc/default/useradd. Ta có thể kiểm tra thuộc tính của /etc/default/useradd bằng câu lệnh **vi**
 
-<img src="">
+<img src="https://github.com/vinhvt2704/Images/blob/master/default.PNG">
