@@ -15,7 +15,20 @@ root
 
 ### Câu lệnh who
 
-**who** giúp liệt kê những người dùng đang đăng nhập hiện tại trên hệ thống. 
+**who** giúp liệt kê những người dùng đang đăng nhập hiện tại trên hệ thống.
 
-``$ who
+Cú pháp:
+
+``$ who``
+
+### Câu lệnh w
+
+**w** liệt kê những user đã đăng nhập và họ đang làm gì
+
+Ví dụ:
+
+``$ w``
+
+Output:
+
 
