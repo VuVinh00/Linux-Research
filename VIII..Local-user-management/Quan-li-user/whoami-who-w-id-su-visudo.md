@@ -48,3 +48,15 @@ Ví dụ:
 Output:
 
 <img src="https://github.com/vinhvt2704/Images/blob/master/id.PNG">
+
+## Câu lệnh su
+
+Nói tóm gọn thì **su** giúp chúng ta đăng nhập sang 1 user khác ngay trên terminal đang chạy.
+
+Cú pháp:
+``$ su [username]``
+
+Ví dụ:
+
+<img src="">
+
