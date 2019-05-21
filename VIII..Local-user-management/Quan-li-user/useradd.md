@@ -57,7 +57,7 @@ Cú pháp:
 
 Các tùy chọn (options):
 
-- -c : thay đổi thông tin về username
+- -c : thay đổi thông tin về **username**
 - -d : thay đổi home directory cho **username**. Thường đi kèm với option **-m** để di chuyển cá file của **username** sang home directory mới
 - -e : thay đổi ngày **username** hết hạn
 - -f : thay đổi số ngày sau khi password hết hạn cho đến khi **username** bị disable
