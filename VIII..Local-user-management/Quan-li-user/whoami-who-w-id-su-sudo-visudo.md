@@ -60,3 +60,5 @@ Ví dụ:
 
 <img src="https://github.com/vinhvt2704/Images/blob/master/su.PNG">
 
+## Câu lệnh sudo
+
