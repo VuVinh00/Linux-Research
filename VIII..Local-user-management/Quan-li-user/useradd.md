@@ -58,5 +58,14 @@ Cú pháp:
 Các tùy chọn (options):
 
 - -c : thay đổi thông tin về username
-- -d : thay đổi home directory cho **username**. Thường đi kèm với option **-m** để di chuyển cá file của username sang home directory mới
-
+- -d : thay đổi home directory cho **username**. Thường đi kèm với option **-m** để di chuyển cá file của **username** sang home directory mới
+- -e : thay đổi ngày **username** hết hạn
+- -f : thay đổi số ngày sau khi password hết hạn cho đến khi **username** bị disable
+- -g : thay đổi group chính thức chứa **username**
+- -G : thay đổi các group phụ chứa **username**.
+- -l : thay đổi tên login của **username**
+- -L : khóa **username**
+- -p : thay đổi password cho **username**
+- -s : thay đổi default shell cho **username**
+- -u : thay đổi UID cho **username**
+- -U : mở khóa **username**
