@@ -28,7 +28,7 @@ Cách đọc kết quả, ví dụ
 
 Ta có thể liệt kê danh sách gián đoạn bằng cách dùng lệnh cat đọc file **/proc/interrupts**
 
-<img src="">
+<img src="https://github.com/vinhvt2704/Images/blob/master/interrupts.PNG">
 
 ### lscpu
 
