@@ -13,6 +13,7 @@ Ví dụ:
 
 **Hiển thị cơ bản**
 
-```$ which cat
+```
+$ which cat
 /bin/cat
 ```
