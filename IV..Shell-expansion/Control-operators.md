@@ -26,5 +26,4 @@ Nếu command đằng trước thực hiện thành công thì nó sẽ là inpu
 
 **#** dùng để viết comment cho câu lệnh, mọi thứ được viết sau **#** đều được bỏ qua bởi shell
 
-### \
 
