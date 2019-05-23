@@ -18,3 +18,16 @@ Khi bạn nhập thông tin header trong file ngôn ngữ C như #include <stdio
 
 ### /usr/local
 
+/usr/local là nơi administrator cài đặt phần mềm, phần mềm có thể sử dụng bởi tất cả các user
+
+### /usr/share
+
+Nội dung trong thư mục **/usr/share** chứa các tập tin architecture-independent ( docs, icons, fonts , ... )adm
+
+Hệ thống phân cấp này có thể được chia sẻ với một số hệ điều hành nhất định, tuy nhiên **/usr/share** không được chia sẻ bởi các hệ điều hành khác nhau hoặc các phiên bản khác nhau của 1 hệ điều hành .
+
+Bất kì chương trình hay package nào chứa hoặc yêu cầu dữ liệu không cần sửa đổi thì nên lưu trữ dữ liệu đó trong /usr/share
+
+### /usr/src
+
+**/usr/src** là thư mục con chứa mã nguồn của Kernel, tệp tiêu đề và tài liệu dùng cho mục đích tham khảo 
