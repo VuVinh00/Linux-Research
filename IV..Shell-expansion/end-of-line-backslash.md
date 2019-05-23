@@ -4,3 +4,4 @@ Các dòng kết thúc bằng dấu gạch chéo sẽ được tiếp tục tạ
 
 Ví dụ:
 
+<img src="https://github.com/vinhvt2704/Images/blob/master/gachcheonguoc.PNG">
