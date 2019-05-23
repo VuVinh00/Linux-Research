@@ -20,3 +20,11 @@ Shell sẽ thông dịch **||** như là một logical **OR**. Câu lệnh thứ
 
 ### |
 
+Nếu command đằng trước thực hiện thành công thì nó sẽ là input của command thứ 2
+
+### #
+
+**#** dùng để viết comment cho câu lệnh, mọi thứ được viết sau **#** đều được bỏ qua bởi shell
+
+### \
+
