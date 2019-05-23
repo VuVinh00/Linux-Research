@@ -16,4 +16,4 @@ Shell sẽ thông dịch && như là một logical **AND**. Khi sử dụng **&&
 
 Shell sẽ thông dịch **||** như là một logical **OR**. Câu lệnh thứ 2 sẽ chỉ thực hiện khi câu lệnh thứ nhất không hoàn thành ( hoặc trả ra exit status khác 0 )
 
-<img src="">
+<img src="https://github.com/vinhvt2704/Images/blob/master/OR.PNG">
