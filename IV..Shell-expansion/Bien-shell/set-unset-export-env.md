@@ -14,3 +14,7 @@ echo $NAME
 ```
 
 Lệnh trên sẽ không in bất kì thông tin gì
+
+### Xem danh sách biến trên hệ thống
+
+Ta có thể xem danh sách hệ thống bằng lệnh **set** hoặc **env**
