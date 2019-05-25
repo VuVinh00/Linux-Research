@@ -14,3 +14,12 @@ BIEN_123
 ```
 
 Tên biến không được bắt đầu bằng một chữ số và không được sử dụng các ký tự đặc biệt như ``!``,``*``,``-`` khi đặt tên biến
+
+Ví dụ về tên biến không hợp lệ
+
+```
+1_BIEN
+2AGE
+BIRTH!
+PHONE-NUMBER
+```
