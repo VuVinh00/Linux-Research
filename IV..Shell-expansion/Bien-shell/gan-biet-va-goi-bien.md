@@ -23,3 +23,32 @@ Ví dụ về tên biến không hợp lệ
 BIRTH!
 PHONE-NUMBER
 ```
+
+### Định nghĩa và gán giá trị cho biến
+
+Cấu trúc khai báo như sau:
+
+``[tên_biến]=[giá_trị_biến]``
+
+Ví dụ:
+
+```
+NAME="Vu The Vinh"
+AGE=19
+```
+
+### Sử dụng
+
+Để truy cập giá trị trong một biến bằng cách đặt ký tự ``$`` trước tên biến:
+
+```
+#!/bin/sh
+NAME="Vu The Vinh"
+AGE=19
+echo $NAME $AGE
+```
+
+Kết quả:
+
+``Vu The Vinh 19``
+
