@@ -6,6 +6,3 @@
 
 ### Basic regex:
 
-#### *
-
-qwads
