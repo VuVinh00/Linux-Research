@@ -35,4 +35,11 @@ Tính đến hiện tại, Linux đã có rất nhiều phiên bản khác nhau,
 
 ## 3: Giấy phép
 
+**Giấy phép công cộng GNU** ( GNU General Public License, viết tắt **GNU GPL** hay **GPL**) là giấy phép phần mềm tự do được sử dụng rộng rãi, đảm bảo cho người dùng cuối tự do chạy, nghiên cứu, sửa đổi và chia sẻ phần mềm
 
+## Lựa chọn Linux thay cho Windows
+
+- Mã nguồn mở - miễn phí : Việc sử dụng công cụ để can thiệp vào hệ thống Windows và bẻ khóa bản quyền làm cho hệ thống mất ổn định. Đồng thời, việc đó còn liên quan đến vấn đề bản quyền và pháp lý
+   Nhưng với Linux bạn sẽ không cần làm điều đó. Vì Linux là một hệ điều hành mã nguồn mở và miễn phí. Bạn sẽ không tốn bất cứ chi phí nào hay lo ngại bản quyền khi sử dụng Linux
+
+- Cài đặt nhanh
