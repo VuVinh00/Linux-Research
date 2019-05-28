@@ -31,3 +31,15 @@ Biến **HISTSIZE** xác định số lượng lệnh được lưu trong môi t
 Ta có thể thay đổi giá trị này như sau:
 
 <img src="https://github.com/vjnkvt/Images/blob/master/9999.PNG">
+
+### $HISTFILE
+
+Biến **HISTFILE** là nơi lưu trữ lịch sử câu lệnh. Mặc định được lưu ở **~/.bash_history**
+
+Lịch sử phiên được lưu vào file này khi bạn thoát khỏi phiên
+
+*Đóng màn hình dòng lệnh gnome bằng chuột hoặc **reboot** sẽ không lưu lại lịch sử câu lệnh*
+
+### $HISTFILESIZE
+
+Số lượng command sẽ được giữ lại trong file, ta cũng có thể thay đổi giá trí này như **$HISTSIZE**
