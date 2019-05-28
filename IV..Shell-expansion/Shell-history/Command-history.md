@@ -8,10 +8,13 @@ Khi ta gõ ra màn hình lệnh **history**, hệ thống sẽ in ra màn hình 
 
 Ví dụ:
 
+<img src="https://github.com/vjnkvt/Images/blob/master/!!.PNG">
+
 ### Thực hiện lại câu lệnh thứ n
 
 Để thực hiện lại câu lệnh thứ **n** trong lịch sử câu lệnh các bạn sử dụng cú pháp **!n**
 
 Ví dụ:
 
+<img src="https://github.com/vjnkvt/Images/blob/master/!n.PNG">
 
