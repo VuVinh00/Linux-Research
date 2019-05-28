@@ -26,7 +26,8 @@ Một lựa chọn khác để tìm kiếm lịch sử là sử dụng **Ctrl + 
 
 Biến **HISTSIZE** xác định số lượng lệnh được lưu trong môi trường hiện tại. Hầu hết các bản phân phối hiện nay mặc định từ 500 đến 1000
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/histzise.PNG">
 
 Ta có thể thay đổi giá trị này như sau:
 
+<img src="https://github.com/vjnkvt/Images/blob/master/9999.PNG">
