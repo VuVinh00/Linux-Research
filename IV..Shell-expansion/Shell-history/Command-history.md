@@ -18,3 +18,15 @@ Ví dụ:
 
 <img src="https://github.com/vjnkvt/Images/blob/master/!n.PNG">
 
+### Tổ hợp phím "Ctrl + R"
+
+Một lựa chọn khác để tìm kiếm lịch sử là sử dụng **Ctrl + R**. Nhấn **Ctrl + R** sau đó bắt đầu gõ một phần của câu lệnh, hệ thống sẽ tự hoàn tất phần còn lại dựa trên các câu lệnh đã được thực hiện trước đó.
+
+### $HISTSIZE
+
+Biến **HISTSIZE** xác định số lượng lệnh được lưu trong môi trường hiện tại. Hầu hết các bản phân phối hiện nay mặc định từ 500 đến 1000
+
+<img src="">
+
+Ta có thể thay đổi giá trị này như sau:
+
