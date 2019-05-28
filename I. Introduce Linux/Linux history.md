@@ -43,4 +43,12 @@ Tính đến hiện tại, Linux đã có rất nhiều phiên bản khác nhau,
 
    Nhưng với Linux bạn sẽ không cần làm điều đó. Vì Linux là một hệ điều hành mã nguồn mở và miễn phí. Bạn sẽ không tốn bất cứ chi phí nào hay lo ngại bản quyền khi sử dụng Linux
 
-- Cài đặt nhanh
+- Cài đặt nhanh - Đầy đủ phần mềm cơ bản: Sau khi cài đặt Windows, ta phải cài thêm những phần mềm như : Office, Brower, ...
+
+   Nhưng với hầu hết các Distro Linux thông dụng chỉ cần cài xong hệ điều hành là đã có đầy đủ các driver và phần mềm cơ bản
+
+- An toàn bảo mật cao : Có 2 yếu tố làm cho Linux có tính an toàn và bảo mật cao đó là:
+   - Hệ thống Linux quản lí quyền người dùng rất chặt chẽ từ nhân hệ thống.
+   - Linux ít người dùng hơn so với Windows và Linux cũng chia ra làm rất nhiều distro nên Linux rất ít bị tấn công
+
+- Hỗ trợ tốt cho Lập trình viên - Quản trị mạng
