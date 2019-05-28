@@ -23,3 +23,22 @@ C shell thì có:
 
 ``#!/bin/bash``
 
+## Cách tạo và thực thi chương trình shell
+
+Bước 1: Tạo 1 file có đuôi là **.sh** (ví dụ hello.sh ) nội dung như sau:
+
+```
+#!/bin/bash
+echo "Hello World"
+```
+Bước 2: Để script có thể thực thi thì ta phải cấp quyền cho nó
+
+``chmod 0777 hello.sh``
+
+Bước 3: Thực thi file shell 
+
+Ta có thể chạy file bằng 1 số lệnh sau:
+
+- bash hello.sh
+- sh hello.sh
+- ./hello.sh
