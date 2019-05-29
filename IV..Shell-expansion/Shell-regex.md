@@ -6,8 +6,5 @@
 
 ### Basic regex:
 
-* | a |
-? |a | 
-[] |a |
-^ | Khớp với ký tự đầu của chuỗi |
-$ | Khớp với ký tự cuối của chuỗi |
+- ^ :Khớp với ký tự đầu của chuỗi 
+- $ :Khớp với ký tự cuối của chuỗi 
