@@ -16,7 +16,7 @@ Khi file này tồn tại ở thư mục home, thì **bash** sẽ có nguồn c�
 
 CentOS 7 sử dụng **~/.bash_profile**, nơi nó sẽ kiểm tra sự tồn tại của **~/.bashrc**. Nó cũng thêm **$HOME/bin** vào biến **$PATH**
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/bash_profile.PNG">
 
 ### ~/.bash_login
 
