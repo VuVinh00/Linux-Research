@@ -10,3 +10,8 @@
 |-----------|---|
 |.     |Khớp bất kỳ kí tự đơn nào |
 |^      |Khớp đầu chuỗi |
+|$      |Khớp cuối chuỗi |
+|*      |Khớp với 0 hoặc nhiều lần ký tự trước|
+|\      |Đại diện cho ký tự đặc biệt|
+|( )    |Nhóm biểu thức chính quy|
+|?      |Khớp tối đa 1 ký tự|
