@@ -20,7 +20,7 @@ Ví dụ: Ta có thư mục **Test** bao gồm các thư mục sau:
 
 - Ký tự ^ : Tìm kí tự bắt đầu của một chuỗi 
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/%5E.PNG">
 
 - Ký tự $ : Tìm kí tự cuối của một chuỗi
 
