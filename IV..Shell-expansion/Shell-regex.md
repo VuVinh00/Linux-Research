@@ -8,3 +8,5 @@
 
 - **^** : Khớp với ký tự đầu của chuỗi 
 - **$** : Khớp với ký tự cuối của chuỗi 
+- * : Khớp với 0 hoặc nhiều lần ký tự trước
+- ** \ ** : Đại diện cho ký tự đặc biệt
