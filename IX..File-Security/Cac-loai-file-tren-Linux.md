@@ -2,5 +2,10 @@ Khi ta sử dụng câu lệnh **ls -l**, đối với mỗi tệp ta có thể 
 
 | First character | File type |
 |--------------|----------|
-|-    | normal file |
-
+|  -  | normal file |
+|  d  | directory |
+|  l  | symbolic link |
+|  p  | named pipe |
+|  b  | block device |
+|  c  | character device |
+|  s  | socket |
