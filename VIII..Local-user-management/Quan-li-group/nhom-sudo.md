@@ -21,3 +21,9 @@ Ví dụ một user bình thường sẽ không thể nào sử dụng các lệ
 - **Sudo**:
 
 **Sudo** chạy một lệnh duy nhất với quyền **root**. Khi ta thực thi câu lệnh **sudo**, hệ thống sẽ yêu cầu mật khẩu của người dùng hiện tại và chạy với tư cách người dùng root.
+
+### Thực hiện command dưới quyền sudo:
+
+Để thực hiện command dưới quyền **sudo** ta chỉ cần thêm sudo trước câu lệnh cần thực hiện.
+
+
