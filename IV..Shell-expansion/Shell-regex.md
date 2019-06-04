@@ -16,7 +16,7 @@
 
 Ví dụ: Ta có thư mục **Test** bao gồm các thư mục sau:
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/Test.PNG">
 
 - Ký tự ^ : Tìm kí tự bắt đầu của một chuỗi 
 
@@ -24,4 +24,4 @@ Ví dụ: Ta có thư mục **Test** bao gồm các thư mục sau:
 
 - Ký tự $ : Tìm kí tự cuối của một chuỗi
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/%24.PNG">
