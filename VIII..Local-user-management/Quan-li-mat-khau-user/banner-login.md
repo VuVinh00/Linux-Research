@@ -10,10 +10,10 @@ Ta có 2 cách cấu hình :
 
 Ta mở file **/etc/issue** sau đó sửa thành nội dung chúng ta muốn 
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/issue.PNG">
 
 #### 2 : Để hiện thị banner sau khi user đăng nhập
 
 Ta mở file **/etc/motd** và sửa thành nội dung muốn sửa :
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/motd.PNG">
