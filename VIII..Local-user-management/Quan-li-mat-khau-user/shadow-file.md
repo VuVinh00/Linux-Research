@@ -16,8 +16,16 @@ Giải thích:
 
 **$6$Dkwmavc$Aavdhvkwlhfwscdhfj/fwef** ( Password-encode ) : Mật khẩu được mã hóa, được phân cách thành 3 trường bởi **$**
 
-``$6  $Dkwmavc   $Aavdhvkwlhfwscdhfj/fwef ``
-    - Trường 1 ( $1 ): Cho biết thuật toán mã hóa
-      $1 : MD5
-      $2 : blowfish
-      $2a: eksblowfish
+``$6  $Dkwmavc   $Aavdhvkwlhfwscdhfj/fwef``
+
+   - Trường 1 ( $1 ): Cho biết thuật toán mã hóa
+
+        $1 : MD5
+
+        $2 : blowfish
+
+        $2a: eksblowfish
+
+        $5 : sha256
+        
+        $6 : sha512
