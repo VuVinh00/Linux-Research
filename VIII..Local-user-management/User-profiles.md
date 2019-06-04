@@ -28,3 +28,13 @@ Khi cả **~/.bash_profile** và **~/.bash_login** đều không tồn tại, **
 
 ### ~/.bashrc
 
+**~/.bashrc** là một shell script file, thường được sử dụng như một tệp cấu hình riêng cho 1 người dùng cụ thể
+
+Vị trí của nó ở home directory và được thực thi khi user đăng nhập vào bash
+
+Nó thường được sử dụng để set tùy chỉnh của người dùng ( user preferences) hoặc biến mỗi trường ( environment variables) nhưng không chỉ giới hạn ở đó, vì nó là file shell script nên nó cũng có thể được sử dụng để chạy bất cứ thứ gì user có thể chạy
+
+### ~/.bash_logout
+
+Khi thoát phiên làm việc bash, nó có thể thực thi **~/.bash_logout
+
