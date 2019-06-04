@@ -34,6 +34,8 @@ Giải thích:
    
 Nếu tại **password-encode** mà:
 
-   - rỗng --> không có mật khẩu
-   - !    --> mật khẩu người dùng bị chặn nhưng có thể sử dụng phương thức khác để connect như ssh key
-   -*   --> mật khẩu bị chặn, vẫn có thể connect bằng phương thức khác 
+   rỗng --> không có mật khẩu
+   
+   !    --> mật khẩu người dùng bị chặn nhưng có thể sử dụng phương thức khác để connect như ssh key
+   
+   *   --> mật khẩu bị chặn, vẫn có thể connect bằng phương thức khác 
