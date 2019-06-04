@@ -20,8 +20,7 @@ Giải thích:
 
    - Trường 1 ( $1 ): Cho biết thuật toán mã hóa
 
-        $1 : MD5
-
+        $1 : MD5\n
         $2 : blowfish
 
         $2a: eksblowfish
