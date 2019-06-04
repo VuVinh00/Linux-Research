@@ -12,3 +12,12 @@ Ví dụ một user bình thường sẽ không thể nào sử dụng các lệ
 
 ### So sánh sudo và root
 
+- **Root user** :
+  
+  Cả **su** và **sudo** đều được chạy với quyền của người dùng **root**. Người dùng **root** có quyền hạn tối đa và làm bất cứ thứ gì trong hệ thống. **Normal user** trên Linux thường có quyền hạn kém - ví dụ như normal user không thể cài đặt hay viết lên các thư mục hệ thống
+  
+  Để làm được điều gì khi bị yêu cầu quyền này thì ta phải sử dụng đến **sudo**
+  
+- **Sudo**:
+
+**Sudo** chạy một lệnh duy nhất với quyền **root**. Khi ta thực thi câu lệnh **sudo**, hệ thống sẽ yêu cầu mật khẩu của người dùng hiện tại và chạy với tư cách người dùng root.
