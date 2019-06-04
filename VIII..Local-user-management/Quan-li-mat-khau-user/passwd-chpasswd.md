@@ -1,6 +1,6 @@
 ### Thay đổi password user
 
-- **passwd**
+#### **passwd**
 
 Mật khẩu của user có thể được set bằng **passwd** và cũng có thể dùng **passwd** để đổi mật khẩu user hiện tại
 
@@ -8,7 +8,7 @@ Cú pháp :
 
 ``passwd + [tên user]``
 
-- **chpasswd**
+#### **chpasswd**
 
 **chpasswd** được sử dụng để cập nhật mật khẩu cho user hệ thống Linux khi hoạt động trong chế độ **batch mode** hay còn gọi là tiến trình tự động hóa như shell script.
 
