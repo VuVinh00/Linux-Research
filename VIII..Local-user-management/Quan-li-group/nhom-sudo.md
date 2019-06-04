@@ -9,3 +9,6 @@
 Ví dụ một user bình thường sẽ không thể nào sử dụng các lệnh để dừng một tác vụ trên hệ thống. Nhưng nếu hộ gõ một lệnh dừng tác vụ nào đó mà có kèm chữ **sudo** đằng trước thì yêu cầu này sẽ được gửi đến hệ thống, hệ thống sẽ kiểm tra xem user đang gửi yêu cầu có nằm trong danh sách **sudoers** hay không, nếu có thì có phép thành viên kia thực thi còn không thì sẽ báo lỗi và lưu lại log
 
 Đối với user gõ lệnh **sudo** thì sẽ được hỏi mật khẩu của chính họ để xác nhận.
+
+### So sánh sudo và root
+
