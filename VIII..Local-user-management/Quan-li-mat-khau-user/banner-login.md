@@ -17,3 +17,8 @@ Ta mở file **/etc/issue** sau đó sửa thành nội dung chúng ta muốn
 Ta mở file **/etc/motd** và sửa thành nội dung muốn sửa :
 
 <img src="https://github.com/vjnkvt/Images/blob/master/motd.PNG">
+
+
+### Sau khi khởi động lại hệ thống ta được banner như sau: 
+
+<img src="">
