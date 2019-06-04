@@ -21,4 +21,4 @@ Ta mở file **/etc/motd** và sửa thành nội dung muốn sửa :
 
 ### Sau khi khởi động lại hệ thống ta được banner như sau: 
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/banner.PNG">
