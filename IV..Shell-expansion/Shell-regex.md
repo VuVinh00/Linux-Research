@@ -8,10 +8,20 @@
 
 | Ký hiệu | Mô tả |
 |-----------|---|
-|.     |Khớp bất kỳ kí tự đơn nào |
 |^      |Khớp đầu chuỗi |
 |$      |Khớp cuối chuỗi |
 |*      |Khớp với 0 hoặc nhiều lần ký tự trước|
-|\      |Đại diện cho ký tự đặc biệt|
 |( )    |Nhóm biểu thức chính quy|
 |?      |Khớp tối đa 1 ký tự|
+
+Ví dụ: Ta có thư mục **Test** bao gồm các thư mục sau:
+
+<img src="">
+
+- Ký tự ^ : Tìm kí tự bắt đầu của một chuỗi 
+
+<img src="">
+
+- Ký tự $ : Tìm kí tự cuối của một chuỗi
+
+<img src="">
