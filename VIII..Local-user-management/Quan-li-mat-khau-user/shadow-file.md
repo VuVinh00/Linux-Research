@@ -20,7 +20,8 @@ Giải thích:
 
    - Trường 1 ( $1 ): Cho biết thuật toán mã hóa
 
-        $1 : MD5\n
+        $1 : MD5
+        
         $2 : blowfish
 
         $2a: eksblowfish
@@ -28,3 +29,11 @@ Giải thích:
         $5 : sha256
         
         $6 : sha512
+   - Trường 2 ( $Dkwmavc ): Là một chuỗi dữ liệu ngẫu nhiên (salt) kết hợp với pass người dùng, tăng tính bảo mật trong hàm băm
+   - Trường 3 ( $Aavdhvkwlhfwscdhfj/fwef ) : Giá trị băm của salt + password
+   
+Nếu tại **password-encode** mà:
+
+   - rỗng --> không có mật khẩu
+   - !    --> mật khẩu người dùng bị chặn nhưng có thể sử dụng phương thức khác để connect như ssh key
+   - *    --> mật khẩu bị chặn, vẫn có thể connect bằng phương thức khác 
