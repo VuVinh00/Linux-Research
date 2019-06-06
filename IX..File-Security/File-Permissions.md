@@ -78,3 +78,16 @@ Là lệnh thay đổi quyền truy xuất trên thư mục / tập tin:
     ``-R``: Áp dụng với mọi thư mục làm cho lệnh ``chmod`` có hiệu lực trên cả các thư mục con
   
   - **Mode** : Quyền truy xuất mới cho tập tin
+
+### chown
+
+Là lệnh thay đổi chủ sở hữu thư mục / tập tin ( owner )
+
+``# chown [options] [owner] [file]``
+
+   - **Options** : 
+   
+        ``-R``: Áp dụng đối với thư mục làm cho lệnh ``chown`` có tác dụng trên cả các thư mục con
+   
+   - **Owner**: chủ sở hữu mới của tập tin
+   
