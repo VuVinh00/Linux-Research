@@ -10,3 +10,5 @@ Quyền hạn là một phần quan trọng của linux có vai trò quan trọn
 **User** và **Group** của hệ thống được quản lí tại **/etc/passwd** và **/etc/group**. Các **user** và **group** có thể sở hữu các file và mọi file đều phải có người sở hữu và nhóm sở hữu
 
 <img src="https://github.com/vjnkvt/Images/blob/master/owner.PNG">
+
+Người dùng **paul** sở hữu 2 file, **file1** có người sở hữu là **paul** và nhóm sở hữu là **paul**, **data.odt** được sở hữu bởi nhóm **snooker**, file2 được sử hữu bởi nhóm **tennis**. File cuối cùng **stuff.txt** được sở hữu bởi người dùng **root** và nhóm **root**
