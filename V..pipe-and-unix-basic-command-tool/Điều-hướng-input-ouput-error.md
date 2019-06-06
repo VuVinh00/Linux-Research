@@ -14,3 +14,8 @@
 Standard error viết ra lỗi khi được tạo ra bởi chương trình trong quá trình nó thực thi. Standard error cũng in kết quả ra màn hình
 
 <img src="https://github.com/vjnkvt/Images/blob/master/error.PNG">
+
+### Điều hướng luồng 
+
+Câu lệnh với dấu ngoặc nhọn đơn sẽ ghi đè nội dung đã tồn tại. Ví dụ:
+
