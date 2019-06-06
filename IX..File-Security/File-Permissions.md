@@ -41,3 +41,20 @@ Ví dụ:
 drwxr-xr-x.  4  root  root  64  May 13  08:25 Test
 ```
 
+- d : đại diện cho folder
+- r : read permission
+- w : write permission
+- x : execute permission
+
+Quyền sẽ được hiển thị từ trái sang phải theo thứ tự : theo nhóm bị ảnh hưởng bởi quyền gồm : user - group - other
+
+- Ở phần thứ nhất : user đang có full quyền rwx
+- Ở phần thứ hai: group đang có quyền r-x là đọc và thực thi
+- Ở phần thứ ba: other có quyền r-x là đọc và thực thi
+
+### chgrp
+
+
+### umask
+
+Khi tạo file hoặc thư mục mới, quyền mặc định sẽ được áp dụng. Permissions mặc định được xác định bởi **umask**. **umask** xác định quyền 
