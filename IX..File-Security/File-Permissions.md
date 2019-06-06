@@ -54,7 +54,27 @@ Quyền sẽ được hiển thị từ trái sang phải theo thứ tự : theo
 
 ### chgrp
 
+- Là lệnh thay đổi nhóm sở hữu thư mục/ tập tin
+
+``# chgrp [options] [group_owner] [file]``
+    
+  - Options:
+    ``-R``: Áp dụng đối với thư mục làm cho lệnh ``chgrp`` có tác dụng trên các thư mục con
+    
+  - Group_owner: nhóm sở hữu mới của tập tin
 
 ### umask
 
 Khi tạo file hoặc thư mục mới, quyền mặc định sẽ được áp dụng. Permissions mặc định được xác định bởi **umask**. **umask** xác định quyền 
+
+### chmod
+
+Là lệnh thay đổi quyền truy xuất trên thư mục / tập tin:
+
+``# chmod [options] [mode] [file]``
+
+  - **Options** :
+  
+    ``-R``: Áp dụng với mọi thư mục làm cho lệnh ``chmod`` có hiệu lực trên cả các thư mục con
+  
+  - **Mode** : Quyền truy xuất mới cho tập tin
