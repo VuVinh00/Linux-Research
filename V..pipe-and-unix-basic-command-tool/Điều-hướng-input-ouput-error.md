@@ -13,4 +13,4 @@
 
 Standard error viết ra lỗi khi được tạo ra bởi chương trình trong quá trình nó thực thi. Standard error cũng in kết quả ra màn hình
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/error.PNG">
