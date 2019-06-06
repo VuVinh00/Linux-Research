@@ -36,3 +36,8 @@ Quền hạn truy cập file là dòng đầu tiên của sự bảo vệ trong 
 |Read + Write |6| r-x |
 |Read + Write + Execute | 7 | rwx |
 
+Ví dụ: 
+```
+drwxr-xr-x.  4  root  root  64  May 13  08:25 Test
+```
+
