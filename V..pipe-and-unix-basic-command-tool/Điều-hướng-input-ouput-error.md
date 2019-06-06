@@ -7,4 +7,10 @@
 
 -Standard Output in ra những dữ liệu mà được sinh ra bởi chương trình. Khi mà standard output không có điều hướng thì nó sẽ xuất văn bản ra terminal
 
+<img src="https://github.com/vjnkvt/Images/blob/master/output.PNG">
+
+### Standard Error
+
+Standard error viết ra lỗi khi được tạo ra bởi chương trình trong quá trình nó thực thi. Standard error cũng in kết quả ra màn hình
+
 <img src="">
