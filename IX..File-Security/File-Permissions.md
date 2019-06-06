@@ -12,3 +12,20 @@ Quyền hạn là một phần quan trọng của linux có vai trò quan trọn
 <img src="https://github.com/vjnkvt/Images/blob/master/owner.PNG">
 
 Người dùng **paul** sở hữu 2 file, **file1** có người sở hữu là **paul** và nhóm sở hữu là **paul**, **data.odt** được sở hữu bởi nhóm **snooker**, file2 được sử hữu bởi nhóm **tennis**. File cuối cùng **stuff.txt** được sở hữu bởi người dùng **root** và nhóm **root**
+
+### Quyền truy cập file 
+
+Quền hạn truy cập file là dòng đầu tiên của sự bảo vệ trong hệ thống Linux. Các khối xây dựng cơ bản trong quyền hạn truy cập Linux là các quyền hạn truy cập đọc, ghi và thực thi
+
+- Read : cho phép người dùng xem được nội dung trong file
+- Write : cho phép người dùng xem, chỉnh sửa nội dung trong file
+- Execute : cho phép chạy file, program.
+
+#### Phân quyền 
+
+Để xác định quyền hạn của 1 user, group người ta gắn một con số cho từng quyền: read = 4, write = 2, execute = 1 
+
+| Quyền | Số | Ký hiệu |
+|-------|----|------|
+|Không đặt quyền | 0 | --- |
+|Execute | 1 | --x |
