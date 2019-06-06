@@ -23,9 +23,16 @@ Quền hạn truy cập file là dòng đầu tiên của sự bảo vệ trong 
 
 #### Phân quyền 
 
-Để xác định quyền hạn của 1 user, group người ta gắn một con số cho từng quyền: read = 4, write = 2, execute = 1 
+Để xác định quyền hạn của 1 user, group người ta gắn một con số cho từng quyền: read ( r ) = 4, write ( w ) = 2, execute ( x) = 1 
 
 | Quyền | Số | Ký hiệu |
 |-------|----|------|
 |Không đặt quyền | 0 | --- |
 |Execute | 1 | --x |
+|Write | 2 | -w- |
+|Execute + Write| 3 | -wx |
+|Read | 4 | r-- |
+|Read + Execute |5| r-x |
+|Read + Write |6| r-x |
+|Read + Write + Execute | 7 | rwx |
+
