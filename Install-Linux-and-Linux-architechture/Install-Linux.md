@@ -13,19 +13,37 @@ Centos: https://www.centos.org/download/
 
 Bước 1 : Sau khi lựa chọn ngôn ngữ hiển thị trong suốt quá trình cài đặt Ubuntu server 16.04 LTS thì chương trình sẽ hiển thị bảng menu các option sử dụng, ta sẽ chọn "**Install Ubuntu Server**" để tiến hành cài đặt
 
-<img src="">
+<img src="https://github.com/vjnkvt/Images/blob/master/1.PNG">
 
 Bước 2 : Tới phần "**Select a Language**", ta chọn ngôn ngữ sử dụng, ở đây ta chọn "English"
 
+<img src="https://github.com/vjnkvt/Images/blob/master/2.PNG">
+
+
 Bước 3 : Lựa chọn khu vực ( location )
+
+<img src="https://github.com/vjnkvt/Images/blob/master/3.PNG">
 
 Bước 4 : Dectec hoặc cấu hình bàn phím nếu cần. Hướng dẫn chọn **No** không cấu hình gì thêm về bàn phím
 
+<img src="https://github.com/vjnkvt/Images/blob/master/4.PNG">
+
+
 Bước 5 : Ở bước này sẽ chọn chuẩn cú pháp gõ bàn phím dành cho **keyboard**. Thông thường đều sử dụng chuẩn tiếng anh nên sẽ lựa chọn "English"
+
+<img src="https://github.com/vjnkvt/Images/blob/master/5.PNG">
+
 
 Bước 6 : Quá trình tự động cấu hình mạng trong lúc cài đặt OS Ubuntu Server đang được thực hiện
 
+<img src="https://github.com/vjnkvt/Images/blob/master/6.PNG">
+
+
 Bước 7: Cấu hình hostname cho server Ubuntu
+
+<img src="https://github.com/vjnkvt/Images/blob/master/7.PNG">
+
+<img src="https://github.com/vjnkvt/Images/blob/master/7,2.PNG">
 
 Bước 8: Tạo một tài khoản user khác để đăng nhập từ đầu
 
