@@ -32,3 +32,4 @@ Thư mục ( directory ) là một loại tập tin đặc biệt chứa bảng 
 ### . and ..
 
 <img src="https://github.com/vjnkvt/Images/blob/master/direc.PNG">
+
