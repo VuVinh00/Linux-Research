@@ -22,3 +22,12 @@ Các lệnh kiểm tra **inode**:
   - Cho biết chi tiết nội dung **inode**
   
     ``# stat [đường_dẫn_file]``
+
+## About directories
+
+### Directory
+
+Thư mục ( directory ) là một loại tập tin đặc biệt chứa bảng ánh xạ các filename tới inodes
+
+### . and ..
+
