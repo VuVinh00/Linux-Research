@@ -4,7 +4,7 @@
 
 - **Sticky bit** được mô tả bằng chữ cái ``T`` ở cuối dòng hiển thị permission:
 
-<img src="https://github.com/vjnkvt/Images/blob/master/11111.png">
+``-rw-r---r-T.  1 root  root    0 Jun 9:00  test.txt``
 
 - Cách thêm **Sticky bit**:
 
