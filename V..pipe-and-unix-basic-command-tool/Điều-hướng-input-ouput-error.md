@@ -17,5 +17,10 @@ Standard error viết ra lỗi khi được tạo ra bởi chương trình trong
 
 ### Điều hướng luồng 
 
-Câu lệnh với dấu ngoặc nhọn đơn sẽ ghi đè nội dung đã tồn tại. Ví dụ:
+Hầu hết kết quả của các command đều được hiển thị ra màn hình. Để chuyển hướng luồng ra đến một file, ta sẽ dùng kí tự **>** như dưới đây :
 
+``# history > history.txt``
+
+Ở ví dụ trên, câu lệnh **history** sẽ được thực thi và kết quả được ghi vào file **history.txt** và kết quả sẽ không được hiển thị ra màn hình 
+
+Kí tự **>>** được dùng để viết tiếp vào file, ví dụ khi dùng **>** nhiều lần thì nội dung sẽ bị ghi đè còn **>>** sẽ viết tiếp vào file đó.
