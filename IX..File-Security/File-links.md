@@ -60,3 +60,12 @@ Trong 1 hệ thống file, mỗi file có 1 và chỉ 1 **inode**, mỗi **inode
 - **Soft link** được tạo bởi lệnh ``ln -s``:
 
 ``# ln -s [path/file_name] [softlink_name]``
+
+### So sánh Hard link và Soft link
+
+- Tên file giống như tên khai sinh và các **hard link** giống các bí danh. Chúng đều tham chiếu trực tiếp đến 1 số **inode** cụ thể và từ đó **inode** trỏ tới các **block** đang lưu file trên ổ cứng. Đi từ tên file ( filename ) hay **hard link** đều thông qua số **inode** để đến cùng 1 vị trí trên ổ cứng
+- **Soft link** không tham chiếu trực tiếp đến số **inode** mà tham chiếu đến **tên file**, từ tên file mới đến số **inode** rồi dùng **inode** để truy cập vào file. Vì vậy nếu **tên file** bị thay đổi, file bị di chuyển hoặc xóa là **soft link** không truy cập được vào nội dung file nữa.
+- **Hard link** chỉ tạo được với file nằm cùng một partition, không tạo được với thư mục hoặc file nằm trên partition khác
+- **Soft link** tạo được với cả thư mục và thư mục,file nằm trên partition khác
+- **Hard link** có thể làm việc với mọi ứng dụng. **Soft link** không được cho phép với 1 số ứng dụng
+- **Hard link, soft link** không làm tăng dung lượng ổ cứng
