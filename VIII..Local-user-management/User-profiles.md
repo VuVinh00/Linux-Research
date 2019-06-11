@@ -36,5 +36,5 @@ Nó thường được sử dụng để set tùy chỉnh của người dùng (
 
 ### ~/.bash_logout
 
-Khi thoát phiên làm việc bash, nó có thể thực thi **~/.bash_logout
+Khi thoát phiên làm việc bash, nó có thể thực thi **~/.bash_logout**
 
