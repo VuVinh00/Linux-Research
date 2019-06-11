@@ -13,3 +13,9 @@ Hệ thống Linux hoạt động cơ bản ở 4 layer. Nhìn vào sơ đồ b�
   * Bash shell là shell mặc định trên Linux được viết bởi Brian Fox và Chet Ramey cho dự án GNU. Bash được cải tiến từ sh, hỗ trợ nhiều câu lệnh hơn
 
 - **Applications**: Đây là các chương trình tiện ích được chạy trên Shell. Nó có thể là nhiều ứng dụng như: Web brower, media player, ...
+
+### Command là gì? 
+
+- Command là một yêu cầu từ một người dùng bảo máy tính làm một cái gì đó như một nhóm các chương trình
+
+- Các command được ban hành bằng cách gõ chúng vào terminal và sau đó việc nhấn nút Enter sẽ đưa chúng đến shell
