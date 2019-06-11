@@ -47,24 +47,46 @@ Bước 7: Cấu hình hostname cho server Ubuntu
 
 Bước 8: Tạo một tài khoản user khác để đăng nhập từ đầu
 
+<img src="https://github.com/vjnkvt/Images/blob/master/8.PNG">
+
 Bước 9: Nhập thông tin mật khẩu user vừa tạo
+
+<img src="https://github.com/vjnkvt/Images/blob/master/9.PNG">
 
 Bước 10: Set timezone của Ubuntu server
 
+<img src="https://github.com/vjnkvt/Images/blob/master/10.PNG">
+
 Bước 11: Lựa chọn cấu hình chia các partion ổ cứng. Nếu không rành thì lựa chọn "Guided - use entire disk"
+
+<img src="https://github.com/vjnkvt/Images/blob/master/11.PNG">
 
 Bước 12: Lựa chọn partion để cài đặt OS Ubuntu Server
 
+<img src="https://github.com/vjnkvt/Images/blob/master/12.PNG">
+
 Bước 13: Xác nhận chép đè thông tin partition lên ổ cứng đã lựa chọn trước đó.
+
+<img src="https://github.com/vjnkvt/Images/blob/master/13.PNG">
 
 Bước 14: Cấu hình HTTP Proxy ( bỏ trống và chọn Continue )
 
+<img src="https://github.com/vjnkvt/Images/blob/master/14.PNG">
+
 Bước 15: Chọn **No automatic updates**
+
+<img src="https://github.com/vjnkvt/Images/blob/master/15.PNG">
 
 Bước 16: Cài đặt các chương trình chuẩn bị sẵn cho server Ubuntu 16.04
 
+<img src="https://github.com/vjnkvt/Images/blob/master/16.PNG">
+
 Bước 17: Cài đặt **GRUB Boot loader** lên ổ cứng. Chọn **Yes**
 
+<img src="https://github.com/vjnkvt/Images/blob/master/17.PNG">
+
 Bước 18: Sau khi chọn **Yes** thì quá trình cài đặt OS Ubuntu Server 16.04 sẽ bắt đầu và khi kết thúc sẽ xuất hiện bảng thông báo hoàn thành quá trình. Lúc này ấn **Continune** và máy tính sẽ restart vào OS Ubuntu Sever
+
+<img src="https://github.com/vjnkvt/Images/blob/master/18.PNG">
 
 Vậy là hoàn thành quá trình cài đặt Ubuntu Server 16.04
